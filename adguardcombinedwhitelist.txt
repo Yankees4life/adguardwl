@@ -405,5 +405,6 @@ sdk.imrworldwide.com
 secure-dcr.imworldwide.com
 tv.rlcdn.com
 udm.scorecardresearch.com
+||discordapp.com
 tags.tiqcdn.com
 7f077.v.fwmrm.net
