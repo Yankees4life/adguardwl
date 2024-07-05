@@ -408,3 +408,4 @@ udm.scorecardresearch.com
 ||discordapp.com
 tags.tiqcdn.com
 7f077.v.fwmrm.net
+||crunchyroll.com
