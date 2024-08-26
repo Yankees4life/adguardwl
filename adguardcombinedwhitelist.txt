@@ -1,3 +1,4 @@
+||x.com
 ||accounts.us1.gigya.com
 ||discord.com
 ||yelp.com
