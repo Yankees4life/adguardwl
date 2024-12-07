@@ -2,11 +2,13 @@ p.ads.roku.com
 ||ads.roku.com
 ||logs.roku.com
 ||cloudservices.roku.com
+||web.roku.com
 sni-ad-traffic.s3.amazonaws.com
 pi.ispot.tv
 ny1-bid.adsrvr.org
 spotxchange.com
 survata.com
 demdex.net
-ravm.tv
+||ravm.tv
 ||pv.sohu.com
+wwwimg.roku.com
