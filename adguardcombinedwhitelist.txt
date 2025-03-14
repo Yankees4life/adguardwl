@@ -434,3 +434,9 @@ tags.tiqcdn.com
 ||crunchyroll.com
 ||vrv.co
 ||peacocktv.com
+||privacyportal.onetrust.com
+||links.playon.tv
+||hdhomerun.com
+||tools.buzzstream.com
+||widget.intercom.io
+||downloads.intercomcdn.com
