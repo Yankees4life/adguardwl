@@ -12,3 +12,5 @@ demdex.net
 ||ravm.tv
 ||pv.sohu.com
 wwwimg.roku.com
+||ovp.peacocktv.com
+||yospace.com
