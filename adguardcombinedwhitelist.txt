@@ -24,6 +24,9 @@
 ||reddit.com
 ||media.tumblr.com
 ||windowsupdate.com
+||wplginc.video-player.arcpublishing.com
+||fox.com
+||www.cbssports.com
 clients4.google.com 
 clients2.google.com
 s.youtube.com 
