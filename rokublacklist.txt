@@ -1,3 +1,5 @@
+||cws.conviva.com^
+||ads.digital.disneyadvertising.com^
 p.ads.roku.com
 ||ads.roku.com
 ||logs.roku.com
